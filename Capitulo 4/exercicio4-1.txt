@@ -1,0 +1,2 @@
+R: O programa não exibira nada na tela pois as condições para a execução dos blocos do if são para
+n1 maior que n2 e n2 maior que n1, ou seja, se eles forem iguais nao satisfaz nenhuma das condições

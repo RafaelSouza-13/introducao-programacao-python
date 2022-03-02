@@ -1,0 +1,2 @@
+R: Sim pois o else pega o que nao se´ra sexecutado no bloco if, números maiores
+que 3
